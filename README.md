@@ -20,7 +20,7 @@
 
 ```typescript
 const sebastian = {
-  role: "AI Automation Specialist & Full-Stack Developer",
+  role: "AI Automation Specialist & AI First Software Developer",
   company: "Treelink — B2B AI Automation Agency (Founder)",
   location: "San José, Costa Rica 🇨🇷",
   languages: ["Spanish (C2 - Native)", "English (C2 - Advanced)"],
