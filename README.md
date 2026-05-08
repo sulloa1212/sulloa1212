@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sebastian_Ulloa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-ulloa12174733b)
 [![Email](https://img.shields.io/badge/Email-sulloagon%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulloagon@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=cef17b&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=sulloa1212&label=Profile%20views&color=cef17b&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -160,12 +160,12 @@ Structured lead-gen campaigns across multiple Costa Rican verticals (automotive,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=CEF17B&icon_color=CEF17B&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=CEF17B&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sulloa1212&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=CEF17B&icon_color=CEF17B&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulloa1212&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=CEF17B&text_color=FFFFFF" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true&background=0A0A0A&stroke=CEF17B&ring=CEF17B&fire=CEF17B&currStreakLabel=CEF17B" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sulloa1212&theme=radical&hide_border=true&background=0A0A0A&stroke=CEF17B&ring=CEF17B&fire=CEF17B&currStreakLabel=CEF17B" />
 
 </div>
 
@@ -175,7 +175,7 @@ Structured lead-gen campaigns across multiple Costa Rican verticals (automotive,
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/sulloa1212/sulloa1212/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
